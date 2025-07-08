@@ -90,4 +90,17 @@ nav ul li a:hover {
     background-color: aquamarine;
 }
 
+.col-2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-1 {
+    margin: 30px 0;
+}
+
+.skill {
+    padding: 0 16px;
+}
+
 
