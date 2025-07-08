@@ -70,6 +70,10 @@
     display:flex;
     justify-content: center;
 }
+.image img{
+    width: 50%;
+    height: 50%;
+}
 nav ul{
     list-style-type: none;
     display: flex;
