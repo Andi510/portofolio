@@ -124,6 +124,36 @@ nav ul li a:hover {
     height: 50%;
 }
 
+.skill-title {
+    margin: 0 20px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.image-skil {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.image-skil img {
+    width: 280px;
+    height: 140;
+    margin-right: 20px;
+    margin-left: 16px;
+}
+.row-reverse{
+    flex-direction: row-reverse;
+}
+footer {
+    height:40px ;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
 
 
 
